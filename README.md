@@ -24,7 +24,11 @@
 
 
 
-<a href="https://linkedin.com/in/zubaer ahamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zubaer ahamed" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/zubaer ahamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master
+
+https://github.com/ZubaerA23/ZubaerA23/assets/105396721/2978d715-a731-42a1-ae2b-0c3a57f06b77
+
+/src/images/icons/Social/linked-in-alt.svg" alt="zubaer ahamed" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
