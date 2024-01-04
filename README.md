@@ -30,10 +30,22 @@ https://github.com/ZubaerA23/ZubaerA23/assets/105396721/2686031a-de7b-4743-aa45-
 
 
 
-Uploading signup&loginFrontEnd.mp4…
+https://github.com/ZubaerA23/ZubaerA23/assets/105396721/ca423f8d-87cc-48bd-b17e-8aa147397ffb
 
 
 https://github.com/ZubaerA23/ZubaerA23/assets/105396721/5099ca16-7f2e-4b2a-b3af-2091187ad5a3
+
+Uploading signup&loginFrontEnd.mp4…
+
+
+Uploading Algo_FrontEnd - Made with Clipchamp.mp4…
+
+
+
+
+https://github.com/ZubaerA23/ZubaerA23/assets/105396721/b5fbf9f0-9897-412a-9594-c9c221576e35
+
+
 
 Uploading signup&loginFrontEnd.mp4…
 
