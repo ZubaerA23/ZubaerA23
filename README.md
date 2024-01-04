@@ -29,6 +29,10 @@
 https://github.com/ZubaerA23/ZubaerA23/assets/105396721/2978d715-a731-42a1-ae2b-0c3a57f06b77
 
 /src/images/icons/Social/linked-in-alt.svg" alt="zubaer ahamed" height="30" width="40" /></a>
+
+https://github.com/ZubaerA23/ZubaerA23/assets/105396721/5e46603d-2c54-454e-80c3-4de8999d5dde
+
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
