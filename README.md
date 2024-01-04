@@ -14,7 +14,11 @@
 
 - 📫 How to reach me **zubaera23@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1W2vaKkEqHtM_ljaL8SAjCZ9DEnCVlvQ7e2m7lTqnPfI/edit?usp=sharing](https://docs.google.com/document/d/1W2vaKkEqHtM_ljaL8SAjCZ9DEnCVlvQ7e2m7lTqnPfI/edit?usp=sharing)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1W2vaKkEqHtM_ljaL8SAjCZ9DEnCVlvQ7e2m7lTqnPfI/edit?usp=sharing]
+
+https://github.com/ZubaerA23/ZubaerA23/assets/105396721/eedc517f-a93a-4465-be5f-9750b72e2ac0
+
+(https://docs.google.com/document/d/1W2vaKkEqHtM_ljaL8SAjCZ9DEnCVlvQ7e2m7lTqnPfI/edit?usp=sharing)
 
 - 
 
