@@ -15,11 +15,7 @@
 - 📫 How to reach me **zubaera23@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1W2vaKkEqHtM_ljaL8SAjCZ9DEnCVlvQ7e2m7lTqnPfI/edit?usp=sharing]
-
-https://github.com/ZubaerA23/ZubaerA23/assets/105396721/eedc517f-a93a-4465-be5f-9750b72e2ac0
-
 (https://docs.google.com/document/d/1W2vaKkEqHtM_ljaL8SAjCZ9DEnCVlvQ7e2m7lTqnPfI/edit?usp=sharing)
-
 - 
 
 <h3 align="left">Connect with me:</h3>
@@ -28,13 +24,11 @@ https://github.com/ZubaerA23/ZubaerA23/assets/105396721/eedc517f-a93a-4465-be5f-
 
 
 
-<a href="https://linkedin.com/in/zubaer ahamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master
+<a href="https://linkedin.com/in/zubaer ahamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zubaer ahamed" height="30" width="40" /></a>
 
-https://github.com/ZubaerA23/ZubaerA23/assets/105396721/2978d715-a731-42a1-ae2b-0c3a57f06b77
-
-/src/images/icons/Social/linked-in-alt.svg" alt="zubaer ahamed" height="30" width="40" /></a>
-
+<p height = "10rem" width = "10rem" >https://github.com/ZubaerA23/ZubaerA23/assets/105396721/eedc517f-a93a-4465-be5f-9750b72e2ac0</p>
 https://github.com/ZubaerA23/ZubaerA23/assets/105396721/5e46603d-2c54-454e-80c3-4de8999d5dde
+https://github.com/ZubaerA23/ZubaerA23/assets/105396721/2978d715-a731-42a1-ae2b-0c3a57f06b77
 
 
 </p>
