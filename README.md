@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zubaer Ahamed</h1>
-<h3 align="center">A passionate frontend developer from Brooklyn</h3>
+<h3 align="center">A passionate frontend developer and Aspiring Cybersecurity specialist from Brooklyn</h3>
 <img align = "right" alt = "coding" width = "400" src = "https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zubaera23&label=Profile%20views&color=0e75b6&style=flat" alt="zubaera23" /> </p>
