@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zubaera23" alt="zubaera23" /></a> </p>
 
-- 🔭 I’m currently working on **Tamizdat Project Inc**
+- 🔭 Previously worked on **Tamizdat Project Inc**
 
 - 🌱 I’m currently learning **Frameworks**
 
