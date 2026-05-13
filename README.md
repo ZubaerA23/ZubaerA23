@@ -14,8 +14,6 @@
 
 - 📫 How to reach me **zubaera23@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1W2vaKkEqHtM_ljaL8SAjCZ9DEnCVlvQ7e2m7lTqnPfI/edit?usp=sharing]
-(https://docs.google.com/document/d/1W2vaKkEqHtM_ljaL8SAjCZ9DEnCVlvQ7e2m7lTqnPfI/edit?usp=sharing)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
